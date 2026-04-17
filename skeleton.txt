@@ -1,0 +1,17 @@
+cryptvaultproject/
+├── core/
+│   ├── auth.cpp
+│   ├── auth.h
+│   ├── entry.h
+│   ├── vault.cpp
+│   └── vault.h
+├── data/
+│   ├── config.txt
+│   └── master.txt
+├── security/
+│   ├── security.cpp
+│   └── security.h
+├── utils/
+│   ├── config.cpp
+│   └── config.h
+└── main.cpp
